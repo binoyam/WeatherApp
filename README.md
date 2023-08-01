@@ -9,3 +9,7 @@
 API from [openweathermap.org](https://openweathermap.org)
 
 [live Preview]()
+
+- cool things to add
+- interactive background color and box shadow according to the weather type,
+- using diffrent colors to diffrent weathers
