@@ -8,7 +8,7 @@
 
 API from [openweathermap.org](https://openweathermap.org)
 
-[live Preview]()
+[live Preview](https://statuesque-churros-5332e9.netlify.app)
 
 - cool things to add
 - interactive background color and box shadow according to the weather type,
